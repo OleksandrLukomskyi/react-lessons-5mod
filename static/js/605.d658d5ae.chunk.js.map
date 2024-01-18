@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/605.d658d5ae.chunk.js","mappings":"iKAQA,UANiB,WACf,OACAA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,YAEP,C","sources":["pages/TodoPage.jsx"],"sourcesContent":["import React from 'react'\n\nconst TodoPage = () => {\n  return (\n\t <div>TodoPage</div>\n  )\n}\n\nexport default TodoPage\n"],"names":["_jsx","children"],"sourceRoot":""}
